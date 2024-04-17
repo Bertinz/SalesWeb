@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|c:\\portfolio\\web asp .net core\\salesweb3\\salesweb3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|solutionrelative:salesweb3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|c:\\portfolio\\web asp .net core\\salesweb3\\salesweb3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|solutionrelative:salesweb3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|c:\\portfolio\\web asp .net core\\salesweb3\\salesweb3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|solutionrelative:salesweb3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|c:\\portfolio\\web asp .net core\\salesweb3\\salesweb3\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|solutionrelative:salesweb3\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "SalesWeb3\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "SalesWeb3\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:35:30.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "SalesWeb3\\Models\\Department.cs",
+              "ToolTip": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Models\\Department.cs",
+              "RelativeToolTip": "SalesWeb3\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:34:26.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SalesWeb3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SalesWeb3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:28:09.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SalesWeb3\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SalesWeb3\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:25:16.879Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
