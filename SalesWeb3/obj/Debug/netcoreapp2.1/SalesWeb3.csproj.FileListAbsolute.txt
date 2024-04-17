@@ -5,7 +5,6 @@ C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\bin\Debug\netcoreapp2.1\Sales
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\bin\Debug\netcoreapp2.1\SalesWeb3.pdb
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\bin\Debug\netcoreapp2.1\SalesWeb3.Views.dll
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\bin\Debug\netcoreapp2.1\SalesWeb3.Views.pdb
-C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\SalesWeb3.csproj.AssemblyReference.cache
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\SalesWeb3.AssemblyInfoInputs.cache
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\SalesWeb3.AssemblyInfo.cs
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\SalesWeb3.csproj.CoreCompileInputs.cache
@@ -31,3 +30,9 @@ C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\SalesWeb3.csproj.CopyComplete
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\SalesWeb3.dll.config
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\bin\Debug\netcoreapp2.1\SalesWeb3.dll.config
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Create.g.cshtml.cs
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs

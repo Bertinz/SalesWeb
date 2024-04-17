@@ -10,7 +10,7 @@ using SalesWeb3.Models;
 
 namespace SalesWeb3.Controllers
 {
-    public class HomeController : DepartmentsController
+    public class HomeController : Controller
     {
         public IActionResult Index()
         {
