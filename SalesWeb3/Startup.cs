@@ -11,6 +11,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using SalesWeb3.Data;
+using SalesWeb3.Models;
 
 namespace SalesWeb3
 {
@@ -39,14 +40,17 @@ namespace SalesWeb3
             services.AddDbContext<SalesWeb3Context>(options =>
                 options.UseMySql(Configuration.GetConnectionString("SalesWeb3Context"), builder =>
             builder.MigrationsAssembly("SalesWeb3")));
+
+            services.AddScoped<SeedingService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, SeedingService seedingService)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                seedingService.Seed();
             }
             else
             {
