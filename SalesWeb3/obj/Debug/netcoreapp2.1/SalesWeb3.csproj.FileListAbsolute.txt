@@ -36,3 +36,4 @@ C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Delete.g.cshtml.cs
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\SalesWeb3.csproj.AssemblyReference.cache
