@@ -21,7 +21,7 @@ namespace SalesWeb3.Models
         }
         public void AddSeller(Seller seller)
         {
-            Seller.Add(seller);
+            Sellers.Add(seller);
         }
 
         public double TotalSales(DateTime initial, DateTime final)

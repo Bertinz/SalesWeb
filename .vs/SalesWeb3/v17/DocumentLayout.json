@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|c:\\portfolio\\web asp .net core\\salesweb3\\salesweb3\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|solutionrelative:salesweb3\\views\\sellers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|c:\\portfolio\\web asp .net core\\salesweb3\\salesweb3\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|solutionrelative:salesweb3\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|c:\\portfolio\\web asp .net core\\salesweb3\\salesweb3\\data\\salesweb3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|solutionrelative:salesweb3\\data\\salesweb3context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|c:\\portfolio\\web asp .net core\\salesweb3\\salesweb3\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|solutionrelative:salesweb3\\services\\sellerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|c:\\portfolio\\web asp .net core\\salesweb3\\salesweb3\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|solutionrelative:salesweb3\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|c:\\portfolio\\web asp .net core\\salesweb3\\salesweb3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12C8A97C-16B1-4B94-9B92-54E8920E10EF}|SalesWeb3\\SalesWeb3.csproj|solutionrelative:salesweb3\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +46,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Views\\Sellers\\Index.cshtml",
+              "RelativeDocumentMoniker": "SalesWeb3\\Views\\Sellers\\Index.cshtml",
+              "ToolTip": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Views\\Sellers\\Index.cshtml",
+              "RelativeToolTip": "SalesWeb3\\Views\\Sellers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:22:38.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "SalesWeb3\\Controllers\\SellersController.cs",
+              "ToolTip": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "SalesWeb3\\Controllers\\SellersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:17:41.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesWeb3Context.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Data\\SalesWeb3Context.cs",
+              "RelativeDocumentMoniker": "SalesWeb3\\Data\\SalesWeb3Context.cs",
+              "ToolTip": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Data\\SalesWeb3Context.cs",
+              "RelativeToolTip": "SalesWeb3\\Data\\SalesWeb3Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:12:01.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "SellerService.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Services\\SellerService.cs",
+              "RelativeDocumentMoniker": "SalesWeb3\\Services\\SellerService.cs",
+              "ToolTip": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Services\\SellerService.cs",
+              "RelativeToolTip": "SalesWeb3\\Services\\SellerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:10:31.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Startup.cs",
+              "RelativeDocumentMoniker": "SalesWeb3\\Startup.cs",
+              "ToolTip": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Startup.cs",
+              "RelativeToolTip": "SalesWeb3\\Startup.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:46:13.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "SalesWeb3\\Controllers\\DepartmentsController.cs",
@@ -42,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Department.cs",
               "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Models\\Department.cs",
               "RelativeDocumentMoniker": "SalesWeb3\\Models\\Department.cs",
@@ -55,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "SalesWeb3\\Models\\ErrorViewModel.cs",
@@ -67,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Portfolio\\Web ASP .NET Core\\SalesWeb3\\SalesWeb3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SalesWeb3\\Controllers\\HomeController.cs",

@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using SalesWeb3.Data;
 using SalesWeb3.Models;
+using SalesWeb3.Services;
 
 namespace SalesWeb3
 {
@@ -42,6 +43,7 @@ namespace SalesWeb3
             builder.MigrationsAssembly("SalesWeb3")));
 
             services.AddScoped<SeedingService>();
+            services.AddScoped<SellerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

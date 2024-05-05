@@ -14,6 +14,7 @@ namespace SalesWeb3.Controllers
     {
         private readonly SalesWeb3Context _context;
 
+
         public DepartmentsController(SalesWeb3Context context)
         {
             _context = context;

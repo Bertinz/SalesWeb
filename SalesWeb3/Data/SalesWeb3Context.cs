@@ -15,7 +15,7 @@ namespace SalesWeb3.Data
         }
 
         public DbSet<SalesWeb3.Models.Department> Department { get; set; }
-        public DbSet<Seller> Seller { get; set; }
-        public DbSet<SalesRecord> SalesRecord { get; set; }
+        public DbSet<SalesWeb3.Models.Seller> Seller { get; set; }
+        public DbSet<SalesWeb3.Models.SalesRecord> SalesRecord { get; set; }
     }
 }
