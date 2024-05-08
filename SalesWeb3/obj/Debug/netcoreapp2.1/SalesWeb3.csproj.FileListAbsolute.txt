@@ -38,3 +38,4 @@ C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Sales
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\SalesWeb3.dll
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\SalesWeb3.pdb
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\SalesWeb3.csproj.CopyComplete
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.g.cshtml.cs
