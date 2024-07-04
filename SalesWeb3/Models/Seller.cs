@@ -12,8 +12,13 @@ namespace SalesWeb3.Models
         public string Name { get; set; }
         public string Email { get; set; }
 
+        [Display(Name = "Birth Date")]
+        [DataType(DataType.Date)]
+        [DisplayFormat(DataFormatString = "{0:MM/dd/yyyy}")]
         public DateTime BirthDate { get; set; }
 
+        [Display(Name = "Base Salary")]
+        [DisplayFormat(DataFormatString = "{0:F2}")]
         public double BaseSalary { get; set; }
 
         public Department Department { get; set; }
