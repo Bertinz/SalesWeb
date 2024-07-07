@@ -42,3 +42,6 @@ C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
 C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.g.cshtml.cs
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.g.cshtml.cs
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.g.cshtml.cs
+C:\Portfolio\Web ASP .NET Core\SalesWeb3\SalesWeb3\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.g.cshtml.cs
